@@ -1,2 +1,2 @@
 # Generative-Art
-Generative Art projects using Processing, with random functions and figures
+Visual Generative Art Projects using Processing, with random functions, figures, mouse effects etc..
